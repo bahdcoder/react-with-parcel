@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.0.5",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html -p 4000",
+    "prettier": "prettier --write './src/**/*.js'"
+  },
+  "dependencies": {
+    "react-hook-form": "^6.0.8",
+    "react-hooks-form": "^2.0.1",
+    "use-form": "^1.0.11"
+  }
+}

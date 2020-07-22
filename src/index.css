@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background: #eee;
+}
+
+.app-wrapper {
+    width: 30%;
+    margin-top: 4rem;
+}
